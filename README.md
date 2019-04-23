@@ -17,6 +17,7 @@ TODO
 # Details
 ## Author
 + Harith Borhan
+
 See also the list of contributors who participated in this project.
 ## License
 This project is licensed under the GNU General Public License v3 (GPL-3). You may copy, distribute and modify the software as long as you track changes/dates in source files. Any modifications to or software including (via compiler) GPL-licensed code must also be made available under the GPL along with build & install instructions. See [LICENSE](LICENSE) file for more details.
