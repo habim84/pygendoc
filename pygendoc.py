@@ -26,3 +26,4 @@ if __name__ == "__main__":
     # Directory
     parser.add_argument("directory")
     parser.parse_args()
+    
